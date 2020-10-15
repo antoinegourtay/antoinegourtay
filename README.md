@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Baludik on new projects !
-- 🌱 I’m currently learning how to include machine learning into a event based service
-- ⚡ Fun fact: ...
+- 📍 I'm based in Nantes
+- 🔭 I’m currently working at Baludik ! And also on nice side projects 🤫
+- 🌱 I’m currently learning a lot of thisn especially about machine learning and IA algorithms
