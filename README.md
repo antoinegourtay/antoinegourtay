@@ -2,4 +2,4 @@
 
 - 📍 I'm based in Nantes
 - 🔭 I’m currently working at Baludik ! And also on nice side projects 🤫
-- 🌱 I’m currently learning a lot of thisn especially about machine learning and IA algorithms
+- 🌱 I’m currently learning a lot of things especially about machine learning and IA algorithms
